@@ -23,7 +23,6 @@ https://drive.google.com/file/d/1ZP5wqJChNOXZgaPpt4ggJnYD5W9-Y9TS/view?usp=shari
 You will have to appropriately change the path of the datasets in the notebook.
 
 # details
-Dataset is in the data folder
 
 Accuracy - 83%
 
