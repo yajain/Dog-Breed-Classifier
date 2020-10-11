@@ -12,17 +12,15 @@ You can import your own images to the folder titled images and change the name o
 2. Python 3.x
 3. numpy, matplotlib
 
-Step 0: Import Datasets
-Make sure that you've downloaded the required human and dog datasets. The datasets can be found in the dog_app notebooks:
+# datasets
 
+The datasets can be found in my google drive. Here is a link to the zipped datasets:
 
-Download the dog dataset. Unzip the folder and place it in this project's home directory, at the location /dog_images.
+https://drive.google.com/file/d/13gl64ZPwOqyN2-81htbVVwYcVN-tY5hs/view?usp=sharing      (human images)
 
-Download the human dataset. Unzip the folder and place it in the home directory, at location /lfw.
+https://drive.google.com/file/d/1ZP5wqJChNOXZgaPpt4ggJnYD5W9-Y9TS/view?usp=sharing      (dog images)
 
-Note: If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
-
-In the code cell below, we save the file paths for both the human (LFW) dataset and dog dataset in the numpy arrays human_files and dog_files.
+You will have to appropriately change the path of the datasets in the notebook.
 
 # details
 Dataset is in the data folder
